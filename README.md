@@ -67,11 +67,7 @@ Make sure you have Python 3.13+ installed.
    ```sh
    git clone https://github.com/vasilm1/WeatherApp.git
    ```
-3. Install NPM packages
-   ```sh
-   pip install requirements.txt
-   ```
-4. Enter your API in `weather.py`
+3. Enter your API in `weather.py`
    ```py
    GMAP_API = 'YOUR GMAPS API'
    WEATHER_API = 'YOUR WEATHER API'
